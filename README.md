@@ -1,9 +1,6 @@
 # The COVID-19 shock in the US labour market — BLS API with R
 
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![ggplot2](https://img.shields.io/badge/ggplot2-tidyverse-1A162D?style=flat-square)
-![REST API](https://img.shields.io/badge/REST%20API-BLS%20Public%20Data-0969da?style=flat-square)
-![Data](https://img.shields.io/badge/data-Jan%202015%20–%20Sep%202026-59636e?style=flat-square)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![ggplot2](https://img.shields.io/badge/ggplot2-tidyverse-1A162D?style=flat-square) ![REST API](https://img.shields.io/badge/REST%20API-BLS%20Public%20Data-0969da?style=flat-square) ![Data](https://img.shields.io/badge/data-Jan%202015%20–%20Sep%202026-59636e?style=flat-square)
 
 An end-to-end R pipeline that pulls official labour-market statistics from the **U.S. Bureau of Labor Statistics (BLS) Public Data API**. It tidies the series and charts how deep the COVID-19 shock went and how long the recovery took.
 
