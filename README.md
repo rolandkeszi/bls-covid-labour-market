@@ -62,6 +62,11 @@ Outputs: `data/bls_series.csv`, `assets/covid-labour-market-ggplot.png`, and the
 └── assets/covid-labour-market.svg     # README figure (adapts to light/dark theme)
 ```
 
+
+## License
+
+© 2026 Roland Keszi. This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/): you may share and adapt it for non-commercial purposes, provided you credit the author (Roland Keszi) and link to this repository. Third-party datasets keep their own licenses. See [`LICENSE`](LICENSE).
+
 ---
 
 <sub>Data: U.S. Bureau of Labor Statistics, retrieved October 2026. Recession dates: NBER (peak Feb 2020, trough Apr 2020).</sub>
